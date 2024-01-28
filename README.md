@@ -6,8 +6,8 @@ Data Science Case Studies for computer science students.
 <table>
     <tbody>
 <tr>
-<td align="center" width="15%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="80%"></img></a></td>
-<td align="center" width="85%"><h1>Are you looking for a 13-week mentorship program?</h1> <h3>fill an application https://forms.gle/3rRZLvBtCusJZd6k9</h3></td>
+<td align="center" width="15%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="75%"></img></a></td>
+<td align="center" width="85%"><h2>Are you looking for a 13-week mentorship program?</h2><h3>fill an application https://forms.gle/3rRZLvBtCusJZd6k9</h3><br></td>
 </tr>
     </tbody>
 </table>
