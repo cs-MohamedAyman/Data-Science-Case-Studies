@@ -6,35 +6,35 @@ Data Science Case Studies for computer science students.
 <table>
     <tbody>
 <tr>
-<td align="center" width="15%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="70%"></img></a></td>
-<td align="center" width="85%"><h3>Are you looking for a 13-week mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
+<td align="center" width="10%"><a href="https://forms.gle/3rRZLvBtCusJZd6k9"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>Are you looking for a 13-week individual mentorship program? <a href="https://forms.gle/3rRZLvBtCusJZd6k9">fill an application</a></h3><br></td>
 </tr>
     </tbody>
 </table>
 
 <br><br><br>
 
-<a href="/hackerrank/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 <br>
 
-## [`HackerRank`](/hackerrank/README.md)
+## [`Level 1`](/level-1/README.md): SQL / NoSQL
 
-<a href="/leetcode/README.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="80" src="/logos/level-2.png"></img></a>
 <br>
 
-## [`LeetCode`](/leetcode/README.md)
+## [`Level 2`](/level-2/README.md): Data Analysis
 
-<a href="/datacamp/README.md"><img align="right" width="80" src="/logos/datacamp.png"></img></a>
+<a href="/level-3/README.md"><img align="right" width="80" src="/logos/level-3.png"></img></a>
 <br>
 
-## [`DataCamp`](/datacamp/README.md)
+## [`Level 3`](/level-3/README.md): Machine Learning
 
-<a href="/kaggle/README.md"><img align="right" width="80" src="/logos/kaggle.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
 <br>
 
-## [`Kaggle`](/kaggle/README.md)
+## [`Level 4`](/level-4/README.md): Deep Learning
 
-<a href="/industries/README.md"><img align="right" width="80" src="/logos/industries.png"></img></a>
+<a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
 <br>
 
-## [`Industries`](/industries/README.md)
+## [`Level 5`](/level-5/README.md): Industries
