@@ -1,7 +1,5 @@
 # 8WeekSqlChallenge - SQL / NoSQL <br> `8 case studies` `40 hrs`
 
-<br><br>
-
 <table>
     <head>
         <tr>
