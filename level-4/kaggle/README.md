@@ -1,12 +1,6 @@
-<picture><img align="right" width="80" src="/logos/kaggle.png"></img></picture>
-
 # Kaggle - Deep Learning <br> `80 case studies` `160 hrs`
 
-<br><br>
-
 ## Computer Vision
-
-<br><br>
 
 <table>
     <tbody>
@@ -126,8 +120,6 @@
 </table>
 
 ## Natural Language Processing
-
-<br><br>
 
 <table>
     <tbody>
