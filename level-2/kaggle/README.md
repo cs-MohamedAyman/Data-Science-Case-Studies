@@ -1,8 +1,6 @@
-<picture><img align="right" width="80" src="/logos/kaggle.png"></img></picture>
-
 # Kaggle - Data Analysis <br> `75 case studies` `160 hrs`
 
-<br><br>
+## Data Analysis
 
 <table>
     <head>
