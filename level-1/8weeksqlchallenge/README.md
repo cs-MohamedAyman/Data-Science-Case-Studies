@@ -1,5 +1,3 @@
-<picture><img align="right" width="80" src="/logos/8weeksqlchallenge.png"></img></picture>
-
 # 8WeekSqlChallenge - SQL / NoSQL <br> `8 case studies` `40 hrs`
 
 <br><br>
