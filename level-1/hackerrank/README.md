@@ -1,13 +1,5 @@
 <picture><img align="right" width="80" src="/logos/hackerrank.png"></img></picture>
 
-# HackerRank OJ - SQL / NoSQL <br> `60 problems` `40 hrs`
-<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/mysql-database.png"></img></picture>
-<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/oracle-database.png"></img></picture>
-<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/sql-server-database.png"></img></picture>
-<picture><img align="right" width="50" src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/logos/postgresql-database.png"></img></picture>
-## Solved using
-<br>
-
 ## Table of Content
 
 - ***Basic Select***             `20 problems`
