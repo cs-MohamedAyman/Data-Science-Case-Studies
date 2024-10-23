@@ -15,26 +15,31 @@ Data Science Case Studies for computer science students.
 <br><br><br>
 
 <a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
-<br>
 
 ## [`Level 1`](/level-1/README.md): SQL / NoSQL
 
+* coming soon ...
+
 <a href="/level-2/README.md"><img align="right" width="80" src="/logos/level-2.png"></img></a>
-<br>
 
 ## [`Level 2`](/level-2/README.md): Data Analysis
 
+* coming soon ...
+
 <a href="/level-3/README.md"><img align="right" width="80" src="/logos/level-3.png"></img></a>
-<br>
 
 ## [`Level 3`](/level-3/README.md): Machine Learning
 
+* coming soon ...
+
 <a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
-<br>
 
 ## [`Level 4`](/level-4/README.md): Deep Learning
 
+* coming soon ...
+
 <a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
-<br>
 
 ## [`Level 5`](/level-5/README.md): Industries
+
+* coming soon ...
