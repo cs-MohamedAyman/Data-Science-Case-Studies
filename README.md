@@ -3,112 +3,37 @@
 # Data Science Case Studies
 Data Science Case Studies for computer science students.
 
+<table>
+    <tbody>
+<tr>
+<td align="center" width="10%"><a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/data-science-case-studies.md"><img src="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/repos-icons/announcement.png" width="100%"></img></a></td>
+<td align="center" width="90%"><h3>looking for a 6-week individual mentorship program? <a href="https://github.com/cs-MohamedAyman/cs-MohamedAyman/blob/master/mentorship-programs/data-science-case-studies.md">fill an application</a></h3><br></td>
+</tr>
+    </tbody>
+</table>
+
 <br><br><br>
 
-<a href="/hackerrank/README.md"><img align="right" width="80" src="/logos/hackerrank.png"></img></a>
+<a href="/level-1/README.md"><img align="right" width="80" src="/logos/level-1.png"></img></a>
 <br>
+## [`Level 1`](/level-1/README.md): SQL / NoSQL
 
-## [`HackerRank - SQL and Database`](/hackerrank/README.md)
 
-
-<a href="/leetcode/README.md"><img align="right" width="80" src="/logos/leetcode.png"></img></a>
+<a href="/level-2/README.md"><img align="right" width="80" src="/logos/level-2.png"></img></a>
 <br>
+## [`Level 2`](/level-2/README.md): Data Analysis
 
-## [`LeetCode - SQL and Database`](/leetcode/README.md)
 
-
-<a href="/datacamp/README.md"><img align="right" width="80" src="/logos/datacamp.png"></img></a>
+<a href="/level-3/README.md"><img align="right" width="80" src="/logos/level-3.png"></img></a>
 <br>
+## [`Level 3`](/level-3/README.md): Machine Learning
 
-## [`DataCamp - Getting Started`](/datacamp/README.md)
 
-
-<a href="/kaggle/README.md"><img align="right" width="80" src="/logos/kaggle.png"></img></a>
+<a href="/level-4/README.md"><img align="right" width="80" src="/logos/level-4.png"></img></a>
 <br>
+## [`Level 4`](/level-4/README.md): Deep Learning
 
-## [`Kaggle - Getting Started`](/kaggle/README.md)
 
-
-<a href="/Retail-SupplyChain-eCommerce/README.md"><img align="right" width="80" src="/logos/retail.png"></img></a>
-<a href="/Retail-SupplyChain-eCommerce/README.md"><img align="right" width="80" src="/logos/ecommerce.png"></img></a>
+<a href="/level-5/README.md"><img align="right" width="80" src="/logos/level-5.png"></img></a>
 <br>
-
-## [`Retail, Supply Chain, and eCommerce`](/Retail-SupplyChain-eCommerce/README.md)
-
-
-<a href="/Digital-Marketing/README.md"><img align="right" width="80" src="/logos/marketing.png"></img></a>
-<a href="/Digital-Marketing/README.md"><img align="right" width="80" src="/logos/digital-marketing.png"></img></a>
-<br>
-
-## [`Digital Marketing`](/Digital-Marketing/README.md)
-
-
-<a href="/Banking-Finance/README.md"><img align="right" width="80" src="/logos/banking.png"></img></a>
-<a href="/Banking-Finance/README.md"><img align="right" width="80" src="/logos/finance.png"></img></a>
-<br>
-
-## [`Banking and Finance`](/Banking-Finance/README.md)
-
-
-<a href="/Media-Entertainment-Arts/README.md"><img align="right" width="80" src="/logos/media.png"></img></a>
-<a href="/Media-Entertainment-Arts/README.md"><img align="right" width="80" src="/logos/arts.png"></img></a>
-<br>
-
-## [`Media, Entertainment, and Arts`](/Media-Entertainment-Arts/README.md)
-
-
-<a href="/Healthcare-Medicine/README.md"><img align="right" width="80" src="/logos/healthcare.png"></img></a>
-<a href="/Healthcare-Medicine/README.md"><img align="right" width="80" src="/logos/medicine.png"></img></a>
-<br>
-
-## [`Healthcare and Medicine`](/Healthcare-Medicine/README.md)
-
-
-<a href="/Video-Games-Sports-Analytics/README.md"><img align="right" width="80" src="/logos/video-games.png"></img></a>
-<a href="/Video-Games-Sports-Analytics/README.md"><img align="right" width="80" src="/logos/sports-analytics.png"></img></a>
-<br>
-
-## [`Video Games and Sports Analytics`](/Video-Games-Sports-Analytics/README.md)
-
-
-<a href="/Telecommunications/README.md"><img align="right" width="80" src="/logos/telecom.png"></img></a>
-<a href="/Telecommunications/README.md"><img align="right" width="80" src="/logos/telecom2.png"></img></a>
-<br>
-
-## [`Telecommunications`](/Telecommunications/README.md)
-
-
-<a href="/Automotive-Transportation/README.md"><img align="right" width="80" src="/logos/automotive.png"></img></a>
-<a href="/Automotive-Transportation/README.md"><img align="right" width="80" src="/logos/transportation.png"></img></a>
-<br>
-
-## [`Automotive and Transportation`](/Automotive-Transportation/README.md)
-
-
-<a href="/Mining-Oil-Gas/README.md"><img align="right" width="80" src="/logos/gas.png"></img></a>
-<a href="/Mining-Oil-Gas/README.md"><img align="right" width="80" src="/logos/oil.png"></img></a>
-<br>
-
-## [`Mining, Oil and Gas`](/Mining-Oil-Gas/README.md)
-
-
-<a href="/Energy-Utilities/README.md"><img align="right" width="80" src="/logos/energy.png"></img></a>
-<a href="/Energy-Utilities/README.md"><img align="right" width="80" src="/logos/utilities.png"></img></a>
-<br>
-
-## [`Energy and Utilities`](/Energy-Utilities/README.md)
-
-
-<a href="/Construction-RealEstate/README.md"><img align="right" width="80" src="/logos/construction.png"></img></a>
-<a href="/Construction-RealEstate/README.md"><img align="right" width="80" src="/logos/real-estate.png"></img></a>
-<br>
-
-## [`Construction and Real Estate`](/Construction-RealEstate/README.md)
-
-
-<a href="/Professional-Services/README.md"><img align="right" width="80" src="/logos/services.png"></img></a>
-<a href="/Professional-Services/README.md"><img align="right" width="80" src="/logos/services2.png"></img></a>
-<br>
-
-## [`Professional Services`](/Professional-Services/README.md)
-
+## [`Level 5`](/level-5/README.md): Industries
