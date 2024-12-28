@@ -15,7 +15,7 @@
 ## DataCamp Case Studies
 
 <details>
-    <summary>(90 case studies)</summary>
+    <summary>(80 case studies)</summary>
     <br>
 <table>
     <head>
@@ -49,7 +49,7 @@
         </tr>
         <tr>
 <th align="center" width="50px">11</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/132">Recreating John Snow's Ghost Map</a></th>
-<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/worlds_oldest_businesses">What and Where are the World's Oldest Businesses</a></th>
+<th align="center" width="50px">12</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/analyzing_electric_vehicle_charging_habits">Analyzing Electric Vehicle Charging Habits</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">13</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/1685">What's in an Avocado Toast A Supply Chain Analysis</a></th>
@@ -117,31 +117,31 @@
         </tr>
         <tr>
 <th align="center" width="50px">45</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/1633">Word Frequency in Moby Dick</a></th>
-<th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/1531">Analyzing Unicorn Companies</a></th>
+<th align="center" width="50px">46</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/analyzing_students_mental_health">Analyzing Students' Mental Health</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/1574">Analyzing Motorcycle Part Sales</a></th>
-<th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2190">Impact Analysis of GoodThought NGO Initiatives</a></th>
+<th align="center" width="50px">47</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2341">Tech Talent Recruiting with Regex</a></th>
+<th align="center" width="50px">48</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2378">Examining the History of Lego Sets</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2044">Evaluate a Manufacturing Process</a></th>
-<th align="center" width="50px">50</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/1906">Analyze International Debt Statistics</a></th>
+<th align="center" width="50px">49</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2629">Finding Exchange Rates for International Sales</a></th>
+<th align="center" width="50px">50</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2577">Extracting TV Data Insights</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">51</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2588">Exploring Trends in American Baby Names</a></th>
-<th align="center" width="50px">52</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2610">Analyzing and Formatting PostgreSQL Sales Data</a></th>
+<th align="center" width="50px">51</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2474">Understanding Subscription Behaviors</a></th>
+<th align="center" width="50px">52</th><th align="left" width="550px"><a href="https">NaveBeesDeepLearnings</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">53</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2623">Factors that Fuel Student Performance</a></th>
-<th align="center" width="50px">54</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/analyzing_students_mental_health">Analyzing Students' Mental Health</a></th>
+<th align="center" width="50px">53</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2216">Creating Functions to Register App Users</a></th>
+<th align="center" width="50px">54</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2406">Building a Calorie Intake Calculator</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">55</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/analyzing_industry_carbon_emissions">Analyzing Industry Carbon Emissions</a></th>
-<th align="center" width="50px">56</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/when_was_the_golden_era_of_video_games">When Was the Golden Era of Video Games?</a></th>
+<th align="center" width="50px">55</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2426">Building a Retail Inventory Management System</a></th>
+<th align="center" width="50px">56</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-building-software-in-python">Case Study: Building Software in Python</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">57</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/analyzing_electric_vehicle_charging_habits">Analyzing Electric Vehicle Charging Habits</a></th>
-<th align="center" width="50px">58</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/worlds-oldest-business">Uncovering the World's Oldest Businesses</a></th>
+<th align="center" width="50px">57</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-net-revenue-management-in-google-sheets">Case Study: Net Revenue Management in Google Sheets</a></th>
+<th align="center" width="50px">58</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2631">Debugging Code</a></th>
         </tr>
         <tr>
 <th align="center" width="50px">59</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/data-driven-decision-making-in-sql">Data-Driven Decision Making in SQL</a></th>
@@ -184,32 +184,8 @@
 <th align="center" width="50px">78</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2205">Analyzing Customer Support Calls</a></th>
         </tr>
         <tr>
-<th align="center" width="50px">79</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2341">Tech Talent Recruiting with Regex</a></th>
-<th align="center" width="50px">80</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2378">Examining the History of Lego Sets</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">81</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2629">Finding Exchange Rates for International Sales</a></th>
-<th align="center" width="50px">82</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2577">Extracting TV Data Insights</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">83</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2474">Understanding Subscription Behaviors</a></th>
-<th align="center" width="50px">84</th><th align="left" width="550px"><a href="https">NaveBeesDeepLearnings</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">85</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2216">Creating Functions to Register App Users</a></th>
-<th align="center" width="50px">86</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2406">Building a Calorie Intake Calculator</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">87</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2426">Building a Retail Inventory Management System</a></th>
-<th align="center" width="50px">88</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-building-software-in-python">Case Study: Building Software in Python</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">89</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-net-revenue-management-in-google-sheets">Case Study: Net Revenue Management in Google Sheets</a></th>
-<th align="center" width="50px">90</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/projects/2631">Debugging Code</a></th>
-        </tr>
-        <tr>
-<th align="center" width="50px">91</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel">Case Study: Analyzing Customer Churn in Excel</a></th>
-<th align="center" width="50px">92</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-net-revenue-management-in-excel">Case Study: Net Revenue Management in Excel</a></th>
+<th align="center" width="50px">79</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel">Case Study: Analyzing Customer Churn in Excel</a></th>
+<th align="center" width="50px">80</th><th align="left" width="550px"><a href="https://app.datacamp.com/learn/courses/case-study-net-revenue-management-in-excel">Case Study: Net Revenue Management in Excel</a></th>
         </tr>
     </tbody>
 </table>
