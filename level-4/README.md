@@ -22,6 +22,7 @@
 <details>
     <summary>(90 case studies)</summary>
     <br>
+
 ## Computer Vision
 
 <table>
